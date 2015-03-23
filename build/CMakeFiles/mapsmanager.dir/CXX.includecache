@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/izquierdocr/projects/mapsManager/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+opencv2/opencv.hpp
+/home/izquierdocr/projects/mapsManager/opencv2/opencv.hpp
+simpleMDPPlanner.cpp
+/home/izquierdocr/projects/mapsManager/simpleMDPPlanner.cpp
+
+/home/izquierdocr/projects/mapsManager/simpleMDPPlanner.cpp
+iostream
+-
+opencv2/opencv.hpp
+/home/izquierdocr/projects/mapsManager/opencv2/opencv.hpp
+vector
+-
+

@@ -1,0 +1,1 @@
+/home/izquierdocr/projects/mapsManager/build/CMakeFiles/mapsmanager.dir
